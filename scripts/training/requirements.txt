@@ -1,0 +1,9 @@
+# Training script dependencies for SageMaker container
+transformers==4.37.0
+datasets==2.16.1
+torch==2.1.2
+peft==0.8.2
+accelerate==0.26.1
+evaluate==0.4.1
+scikit-learn==1.4.0
+mlflow==2.9.2
